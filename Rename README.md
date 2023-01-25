@@ -11,15 +11,14 @@
 <br>
 <br>
 <b>Description:</b>
+<br>
 <i>User account cannot be deleted using the button as described in the FAQ section. A “delete account" button does not exist.</i>
 <br>
 <br>
-<b>Preconditions:</b>
-<i>
-1. User logged in.</i>
+<b>Preconditions:</b><i>
+<br>1. User logged in.
+<br>2. Polish language and region set.</i>
 <br>
-<i>
-2. Polish language and region set.</i>
 <br>
 <b>Enviroment:</b>
 <br>
@@ -32,17 +31,21 @@
 <br>
 <br>
 <b>Steps to reproduce:</b>
-<br>
-1. Go to <url>https://booksy.com/pl-pl/faq#account</url>.
+<br><i>1. Go to <url>https://booksy.com/pl-pl/faq#account</url>
 <br>
 2. Find section "Set-Up and Verification Codes".
 <br>
-3. Find section "Managing Your Booksy Account".
+3. Find section "Managing Your Booksy Account".</i>
 <br>
 4. Below, expand the tab "How can I delete my Booksy account?"
 <br>
 <br>
 <b>Result:</b>
+<br><i>
+A message appears: "By usunąć swoje konto w Booksy wejdź na swój profil a następnie kliknij na zakładkę Twoje dane. Tam znajdziesz przycisk Usuń moje konto."</i>
+<br>
 <br>
 <b>Expected result:</b>
+<br><i>
+A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie na adres pomoc.pl@booksy.com z adresu e-mail zarejestrowanego na Booksy. Usuniemy Twoje konto."</i>
 <br>
