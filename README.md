@@ -15,10 +15,11 @@
 <br>
 <br>
 <b>Preconditions:</b>
-<br>
-<i>1. User logged in.
-<br>
+<br><i>
+1. User logged in.</i>
+<br><i>
 2. Polish language and region set.</i>
+<br>
 <br>
 <b>Enviroment:</b>
 <br>
@@ -32,8 +33,16 @@
 <br>
 <b>Steps to reproduce:</b>
 <br>
-1. Go to  
-
+1. Go to <url>https://booksy.com/pl-pl/faq#account</url>.
+<br>
+2. Find section "Set-Up and Verification Codes".
+<br>
+3. Find section "Managing Your Booksy Account".
+<br>
+4. Below, expand the tab "How can I delete my Booksy account?"
+<br>
+<br>
 <b>Result:</b>
-
+<br>
 <b>Expected result:</b>
+<br>
