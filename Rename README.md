@@ -15,11 +15,11 @@
 <br>
 <br>
 <b>Preconditions:</b>
-<br><i>
+<i>
 1. User logged in.</i>
-<br><i>
-2. Polish language and region set.</i>
 <br>
+<i>
+2. Polish language and region set.</i>
 <br>
 <b>Enviroment:</b>
 <br>
