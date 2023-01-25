@@ -86,19 +86,23 @@ A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie
 <b>Steps to reproduce:</b>
 <br><i>1. Go to <url>https://booksy.com/pl-pl/</url>
 <br>
-2. Find section "Set-Up and Verification Codes".
+2. At the top of the page, find the link with the flag, click on it.
 <br>
-3. Find section "Managing Your Booksy Account".</i>
+3. Select the Canada region.</i>
 <br>
-4. Below, expand the tab "How can I delete my Booksy account?"
-<br>
-<a href="https://ibb.co/3T5WHRP"><img src="https://i.ibb.co/3T5WHRP/delete.png" alt="delete" border="0"></a>
+<a href="https://ibb.co/LzTKN6L"><img src="https://i.ibb.co/LzTKN6L/region.png" alt="region" border="0"></a>
 <br>
 <b>Result:</b>
 <br><i>
-A message appears: "By usunąć swoje konto w Booksy wejdź na swój profil a następnie kliknij na zakładkę Twoje dane. Tam znajdziesz przycisk Usuń moje konto."</i>
+User has been logged out, login is required.</i>
 <br>
 <br>
 <b>Expected result:</b>
 <br><i>
-A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie na adres pomoc.pl@booksy.com z adresu e-mail zarejestrowanego na Booksy. Usuniemy Twoje konto."</i>
+After changing the region, the user should still be logged in to the application.</i>
+<br>
+<br>
+<b>Comments:</b>
+<br><i>
+The situation occurs when changing to any region. After returning to the region back to Poland, the user is logged back in.
+<br>
