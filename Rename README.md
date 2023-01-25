@@ -57,7 +57,7 @@ A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie
 <h2><b>TEST CASE 2</b></h2>
 
 
-<b>[PL_ACCOUNT] Invalid account deletion instructions</b>
+<b>[PL_ACCOUNT] Logged out after region change</b>
 <br>
 <br>
 <b>Created:</b> <i>25/01/2023 by</i> <b>me</b>
