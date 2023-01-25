@@ -6,7 +6,7 @@
 <b>[PL_ACCOUNT] Invalid account deletion instructions</b>
 <br>
 <br>
-<b>Created:</b> <i>25/01/2023 by</i> <b>me</b>
+<b>Created:</b> <i>25/01/2023 by</i> <b>user1</b>
 <br>
 <br>
 <b>Description:</b>
@@ -26,7 +26,7 @@
 <br>
 <b>Priority:</b>
 <br>
-<i>High</i>
+<i>Medium</i>
 <br>
 <br>
 <b>Steps to reproduce:</b>
@@ -60,12 +60,12 @@ A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie
 <b>[PL_ACCOUNT] Logged out after region change</b>
 <br>
 <br>
-<b>Created:</b> <i>25/01/2023 by</i> <b>me</b>
+<b>Created:</b> <i>25/01/2023 by</i> <b>user1</b>
 <br>
 <br>
 <b>Description:</b>
 <br>
-<i>User account cannot be deleted using the button as described in the FAQ section. A “delete account" button does not exist.</i>
+<i>User gets logged out after trying to change region.</i>
 <br>
 <br>
 <b>Preconditions:</b><i>
@@ -84,7 +84,7 @@ A message should appear: "Aby usunąć swoje konto na Booksy wyślij zgłoszenie
 <br>
 <br>
 <b>Steps to reproduce:</b>
-<br><i>1. Go to <url>https://booksy.com/pl-pl/faq#account</url>
+<br><i>1. Go to <url>https://booksy.com/pl-pl/</url>
 <br>
 2. Find section "Set-Up and Verification Codes".
 <br>
